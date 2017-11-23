@@ -11,8 +11,6 @@
 
 ![Alt text](/img/home/all.jpg "Optional title")
 
-![Mint version demo](desc.png)  
-
 ### 工厂方法模式（Factory Method）:
 
 * 普通工厂模式(simpleFactory):就是建立一个工厂类，对实现了同一接口的一些类进行实例的创建。 
