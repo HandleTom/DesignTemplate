@@ -10,6 +10,7 @@
 * 行为型模式，共十一种：策略模式、模板方法模式、观察者模式、迭代子模式、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式。
 
 ![](https://github.com/HandleTom/DesignTemplate/blob/master/%E6%80%BB%E4%BD%93%E8%AE%B2%E8%A7%A3.jpg)
+
 ![Mint version demo](desc.png)  
 
 ### 工厂方法模式（Factory Method）:
